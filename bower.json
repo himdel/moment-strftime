@@ -1,6 +1,6 @@
 {
     "name": "moment-strftime",
-    "version": "0.1.5",
+    "version": "0.1.7",
     "homepage": "https://github.com/benjaminoakes/moment-strftime",
     "authors": [
         "Benjamin Oakes <hello@benjaminoakes.com> (http://www.benjaminoakes.com/)"
@@ -21,6 +21,6 @@
         "spec"
     ],
     "dependencies": {
-        "moment": "~2.12"
+        "moment": "~2.11"
     }
 }
